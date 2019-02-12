@@ -1,0 +1,29 @@
+{
+  "name": "hammer-js-carousel",
+  "version": "1.0.0",
+  "description": "hammer js carousel basic build",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentPauley/hammer-js-carousel.git"
+  },
+  "keywords": [
+    "hammer",
+    "carousel",
+    "mobile",
+    "touch"
+  ],
+  "author": "Vincent Pauley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VincentPauley/hammer-js-carousel/issues"
+  },
+  "homepage": "https://github.com/VincentPauley/hammer-js-carousel#readme"
+}
